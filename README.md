@@ -43,6 +43,7 @@ import RNFileBrowsing from 'react-native-file-browsing';
 RNFileBrowsing;
 ```
 android使用了腾讯的tbs，需要安装qq，微信或者qq浏览器才行。
+
 代码示例:
 import RNFileBrowsing from 'react-native-fileBrowsing'
 RNFileBrowsing.show('http://www.shicidaquan.com/shiren/doc/%E6%9C%AC%E6%96%87%E6%A1%A3%E7%94%B1%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3%E5%BA%93%E6%8F%90%E4%BE%9B.doc','test.doc');
